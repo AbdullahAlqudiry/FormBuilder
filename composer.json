@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "laravelcollective/html": "^6.2",
+        "laravelcollective/html": "^6.2"
     },
     "minimum-stability": "dev",
     "extra": {
