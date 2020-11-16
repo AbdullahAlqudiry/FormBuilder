@@ -1,0 +1,19 @@
+{
+    "name": "abdullah/form-builder",
+    "description": "build blade forms easily",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdullah Alqudiry",
+            "email": "abdullah.alqudiry@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Alqudiry\\FormBuilder\\": "src/"
+        }
+    },
+    "require": {}
+}
