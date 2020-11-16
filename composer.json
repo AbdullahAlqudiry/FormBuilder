@@ -1,7 +1,7 @@
 {
     "name": "alqudiry/form-builder",
     "description": "build blade forms easily",
-    "type": "packagee",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alqudiry\\FormBuilder\\FormBuilderProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Alqudiry\\FormBuilder\\": "src/"
