@@ -1,7 +1,7 @@
 {
-    "name": "abdullah/form-builder",
+    "name": "alqudiry/form-builder",
     "description": "build blade forms easily",
-    "type": "project",
+    "type": "packagee",
     "license": "MIT",
     "authors": [
         {
