@@ -9,6 +9,9 @@
             "email": "abdullah.alqudiry@gmail.com"
         }
     ],
+    "require": {
+        "laravelcollective/html": "^6.2",
+    },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
